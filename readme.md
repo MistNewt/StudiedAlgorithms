@@ -1,5 +1,6 @@
-This contains all the algorithms I have studied and implementd.
+This contains all the algorithms I have studied and implemented.
 This currently contains:
+
 Sorting:
 	Heap Sort
 	Insertion Sort
