@@ -21,6 +21,10 @@ Backtracking:
 Graph:
 	Breadth First Search
 	Depth First Search
+	Dijkstra
+
+String Matching:
+	Naive String Matching
 
 Others:
 	Binary Search Tree
